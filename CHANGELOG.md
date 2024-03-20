@@ -1,5 +1,5 @@
 
-# Electronic Barangay System Change Log
+# <APP NAME> Change Log
 This document tracks notable changes made to the [e-Brgy] software project.
 
 ## [1.0.0] - 2024-03-18
