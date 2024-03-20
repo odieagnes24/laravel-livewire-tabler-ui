@@ -1,6 +1,6 @@
 
 # <APP NAME> Change Log
-This document tracks notable changes made to the [e-Brgy] software project.
+This document tracks notable changes made to the [app-name] software project.
 
 ## [1.0.0] - 2024-03-18
  
